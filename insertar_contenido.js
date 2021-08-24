@@ -17,8 +17,8 @@ const a3 = document.createElement("a");
 a.href="index.xhtml";
 a.textContent = "home";
 
-a2.href="index.xhtml";
-a2.textContent = "home";
+a2.href="pedidos/index.xhtml";
+a2.textContent = "pedido";
 
 a3.href="index.xhtml";
 a3.textContent = "home";
